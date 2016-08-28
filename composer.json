@@ -1,0 +1,12 @@
+{
+    "name": "pistorius/uchebnaya.local",
+    "description": "Yii projeckt",
+    "type": "yiisoft/yii",
+    "require": {
+        "yiisoft/yii": "^1.1"
+    },
+    "require-dev": {
+        "yiisoft/yii2-composer": "^2.0"
+    },
+    "license": "BSD-3-Clause"
+}
